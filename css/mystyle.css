@@ -6,3 +6,6 @@ h1 h2 h3 h4 h5 h6 div p  {
   font-optical-sizing: auto;
   font-style: normal;
 }
+:root{
+  --bs-primery-color:#00FFFF;
+}
